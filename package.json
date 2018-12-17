@@ -1,0 +1,14 @@
+{
+  "id": "facebook-groups",
+  "name": "Facebook Groups",
+  "version": "1.0.1",
+  "description": "Facebook",
+  "main": "index.js",
+  "author": "Peter Porzuczek",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://m.facebook.com/groups/{teamId}&ref=bookmarks",
+    "hasTeamId": true,
+    "message": "Insert your group id in team, e.g. 1593112187642858"
+  }
+}

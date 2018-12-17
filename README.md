@@ -1,5 +1,6 @@
-# Messenger for Franz
-This is the official Franz recipe for Messenger
+# Facebook groups for Franz
+
+Franz recipe for facebook group integration
 
 ### How to create your own Franz recipes:
 * [Read the documentation](https://github.com/meetfranz/plugins)
